@@ -27,7 +27,6 @@ for items in url_code:
         down_count += 1
 
 
-
 with open("url_report.json", "w") as f:
     json.dump(url_code, f, indent=4)
 
