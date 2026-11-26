@@ -1,1 +1,5 @@
 venv/ 
+.env
+report.json
+url_report.json
+__pycache__/
