@@ -1,5 +1,5 @@
 # DevOps-practice
-A scripts that checks wether a list of websites is up and writes a report
+A script that checks whether a list of websites is up and writes a report
 
 ## Setup
 ```powershell 
