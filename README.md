@@ -1,9 +1,12 @@
 # DevOps-practice
-A simple DevOps practice repo 
+A scripts that checks wether a list of websites is up and writes a report
 
-# set up virtual environment
+## Setup
+```powershell 
 python -m venv venv
 .\venv\Scripts\Activate.ps1
-
-# Install environments requirements
 pip install -r requirements.txt
+```
+
+## Usage
+Put the URLs to check in urls.json, then run `python request.py`.
