@@ -3,3 +3,4 @@ venv/
 report.json
 url_report.json
 __pycache__/
+github-token.txt
